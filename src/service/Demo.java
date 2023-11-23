@@ -5,7 +5,6 @@ import model.Rogue;
 import model.Unit;
 import model.Warrior;
 
-import java.sql.SQLOutput;
 
 public class Demo {
     public static void demo() {
